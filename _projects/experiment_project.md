@@ -45,7 +45,7 @@ category: Experimental
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/sixdoftest.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/sixdoftestv1.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
