@@ -323,6 +323,7 @@ imagemagick:
     - ".jpeg"
     - ".png"
     - ".tiff"
+    - ".pdf"
   output_formats:
     webp: "-resize 800x"
 
