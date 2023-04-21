@@ -42,7 +42,7 @@ The ultimate goal of this research is to develop a data-driven turbulence model 
 I have implemented a turbulence model based on the tensor invariance of the flow field that preserves Galilean invariance based on previous studies. Compared to the classic RANS turbulence model ($$k-\omega$$), the data-driven turbulence model does provide better Reynolds stress and flow field prediction results for steady flows. I am working on expanding the approach to simulate unsteady flow around cylinder.
 
 ### Reference
-1. **Fu, X.**, Fu, S.\*, Liu, C., Zhang, M. Data-driven approach for modeling Reynolds stress tensor with invariance preservation. (arXiv: 2303.17178, Submitted to *Physical Review Fluids* )
+1. **Fu, X.**, Fu, S.\*, Liu, C., Zhang, M. Data-driven approach for modeling Reynolds stress tensor with invariance preservation. (arXiv: 2303.17178)
 
 
 

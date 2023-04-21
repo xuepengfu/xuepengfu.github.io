@@ -22,3 +22,8 @@
 "OMAE Conf.":
   url: https://event.asme.org/OMAE
   color: "#9F9995"
+
+"ISOPE Conf.":
+  url: https://www.isope.org/
+  color: "#CE7031"
+  
