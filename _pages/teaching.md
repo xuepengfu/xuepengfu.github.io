@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /teaching/
+permalink: /projects/
 title: Projects
 # description: A brief introduction for projects
 nav: true
