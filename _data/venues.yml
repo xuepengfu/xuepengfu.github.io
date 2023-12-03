@@ -1,6 +1,36 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+
+"J Fluids Struct":
+  url: https://www.sciencedirect.com/journal/journal-of-fluids-and-structures
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"Phys. Fluids":
+  url: https://aip.scitation.org/journal/phf
+  color: "#9F3223"
+
+"ArXiv.org":
+  url: https://info.arxiv.org/about/index.html
+  color: "#467671"
+
+"Mar. Struct.":
+  url: https://www.sciencedirect.com/journal/marine-structures
+  color: "#7B449F"
+
+"Ocean Eng.":
+  url: https://www.sciencedirect.com/journal/ocean-engineering
+  color: "#742716"
+
+"OMAE Conf.":
+  url: https://event.asme.org/OMAE
+  color: "#9F9995"
+
+"ISOPE Conf.":
+  url: https://www.isope.org/
+  color: "#CE7031"
+
+"JOES":
+  url: https://www.sciencedirect.com/journal/journal-of-ocean-engineering-and-science
+  color: "#CEA431"
+
+"J. Mar. Sci. Eng.":
+  url: https://www.sciencedirect.com/journal/journal-of-ocean-engineering-and-science
+  color: "#A9CE31"
