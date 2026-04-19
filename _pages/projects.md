@@ -1,9 +1,9 @@
---
+---
 layout: page
 title: Projects
 permalink: /projects/
 description: A brief introduction for experimental and numerical projects
-nav: true
+nav: false
 nav_order: 5
 display_categories: [Experimental, Numerical]
 horizontal: false
