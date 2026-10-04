@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: fxppic.jpg
+  image: fxppic1.jpg
   image_circular: false # crops the image to make it circular
   address: >
 
@@ -17,6 +17,10 @@ social: true  # includes social icons at the bottom of the page
 
 Thank you for stepping by my website!
 
-I am a postdoc researcher at National Laboratory of the Rockies (NLR, formerly NREL). My research contain both wind and marine energy, employing a combination of numerical and experimental methods. Some field measurement will also be conducted.
+I am a Postdoctoral Researcher at the National Laboratory of the Rockies, working across wind energy and water power. My research combines experiments, simulations, and machine learning to understand fluid–structure interaction and improve predictions for traditional and sustainable offshore energy systems.
 
-I finished my Ph.D. at Shanghai Jiao Tong University in Ocean Engineering under supervision of Prof. [Shixiao Fu](https://scholar.google.com/citations?user=ROYLltsAAAAJ&hl=zh-CN&oi=ao). My Ph.D. work focuses on vortex-induce vibration (VIV) of slender structures. I did both experimental and numerical studies to reveal the mechanism of VIV. I also did some researches on data-driven turbulence model and fluids-structure interaction prediction framework. My undergraduate research was conducted with Prof. [Weiping Huang](https://www.researchgate.net/profile/Weiping-Huang) at Ocean University of China.
+At NLR, I investigate wind-turbine blade vortex-induced vibration (VIV), lead wave-measurement uncertainty studies, and contribute to wave-resource characterization for PacWave. My work also includes autonomous experimental systems and the integration of simulations with laboratory and field data. I serve as co-PI of a U.S. Department of Energy Genesis project of AI-enabled flow-induced vibration modeling. I work closely with Frederick Driscoll, Rebecca Fao, Ganesh Vijayakumar, and Bumseok Lee on wind and marine energy research.
+
+I received my Ph.D. in Ocean Engineering from Shanghai Jiao Tong University under the supervision of Prof. [Shixiao Fu](https://scholar.google.com/citations?user=ROYLltsAAAAJ&hl=zh-CN&oi=ao). My doctoral research examined VIV of flexible structures through experiments and numerical methods, alongside the development of an open-source VIV solver and a data-driven turbulence model. I completed my undergraduate studies at Ocean University of China, where I conducted research with Prof. [Weiping Huang](https://www.researchgate.net/profile/Weiping-Huang).
+
+(updated Oct. 3, 2026)
