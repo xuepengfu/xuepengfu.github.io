@@ -23,4 +23,21 @@ At NLR, I investigate wind-turbine blade vortex-induced vibration (VIV), lead wa
 
 I received my Ph.D. in Ocean Engineering from Shanghai Jiao Tong University under the supervision of Prof. [Shixiao Fu](https://scholar.google.com/citations?user=ROYLltsAAAAJ&hl=en). My doctoral research examined VIV of flexible structures through experiments and numerical methods, alongside the development of an open-source VIV solver and a data-driven turbulence model. I completed my undergraduate studies at Ocean University of China, where I conducted research with Prof. [Weiping Huang](https://www.researchgate.net/profile/Weiping-Huang).
 
+<div style="clear: both;"></div>
+
+<h3 style="font-size: 1.2rem;">Research Overview</h3>
+
+<p>
+My research combines experiments, numerical simulations, and artificial
+intelligence to investigate fluid–structure interaction across
+three levels: fundamental mechanism, model-scale studies, and prototype
+applications. My research framework is outlined below.
+</p>
+
+<video autoplay loop muted playsinline
+       style="display: block; width: 100%; height: auto;">
+  <source src="{{ '/assets/video/Worksummary.mp4' | relative_url }}"
+          type="video/mp4">
+</video>
+
 (updated Oct. 3, 2026)
